@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "title": "Brand Identity for XYZ",
+      "description": "Designed a full brand identity including logo, business cards, and social media assets.",
+      "image": "assets/project1.jpg"
+    },
+    {
+      "title": "Product Packaging for ABC",
+      "description": "Creative packaging design for a new organic product line.",
+      "image": "assets/project2.jpg"
+    },
+    {
+      "title": "Website Mockups for 123 Tech",
+      "description": "UI/UX design and high-fidelity mockups for a startup.",
+      "image": "assets/project3.jpg"
+    }
+  ]
+}
